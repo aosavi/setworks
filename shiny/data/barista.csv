@@ -1,0 +1,18 @@
+Name,Espresso,Brewed Coffee,Hot Milk,Frothed Milk,Steamed Milk,Hot Water,Whipped Cream,Ice Cream
+Affogato,1,0,0,0,0,0,0,1
+Americano,1,0,0,0,0,1,0,0
+Babyccino,0,0,1,1,0,0,0,0
+Black Eye,1,1,0,0,0,0,0,0
+Cappuccino,1,0,1,1,0,0,0,0
+Cortado,1,0,0,0,1,0,0,0
+Doppio,1,0,0,0,0,0,0,0
+Espresso,1,0,0,0,0,0,0,0
+Espresso con Panna,1,0,0,0,0,0,1,0
+Flat White,1,0,0,0,1,0,0,0
+Galao,1,0,0,1,0,0,0,0
+Latte,0,1,1,0,0,0,0,0
+Latte Macchiato,1,0,1,1,0,0,0,0
+Lungo,1,0,0,0,0,0,0,0
+Macchiato,1,0,0,1,1,0,0,0
+Red Eye,1,1,0,0,0,0,0,0
+Ristretto,1,0,0,0,0,0,0,0
